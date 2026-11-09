@@ -1,0 +1,19 @@
+
+
+body {
+    background-color:blanchedalmond
+}
+
+.games {
+    display:flex;
+    gap:10px;
+    justify-content: center;
+    
+    
+}
+
+.name {
+    display:flex;
+    justify-content: center;
+}
+
